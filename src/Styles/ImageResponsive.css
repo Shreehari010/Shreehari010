@@ -1,0 +1,13 @@
+
+  
+.responsive-image__image {
+  
+    @media screen 
+        (max-width: 575px) {
+
+            height: 28px;
+            width:50%;
+          }
+    }
+    
+  
