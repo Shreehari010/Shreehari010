@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbd1aecf.chunk.css",
+    "main.js": "/static/js/main.544c29c8.chunk.js",
+    "main.js.map": "/static/js/main.544c29c8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f4650f22.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f4650f22.js.map",
+    "static/css/2.0004166f.chunk.css": "/static/css/2.0004166f.chunk.css",
+    "static/js/2.6560d0d2.chunk.js": "/static/js/2.6560d0d2.chunk.js",
+    "static/js/2.6560d0d2.chunk.js.map": "/static/js/2.6560d0d2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0004166f.chunk.css.map": "/static/css/2.0004166f.chunk.css.map",
+    "static/css/main.cbd1aecf.chunk.css.map": "/static/css/main.cbd1aecf.chunk.css.map",
+    "static/js/2.6560d0d2.chunk.js.LICENSE.txt": "/static/js/2.6560d0d2.chunk.js.LICENSE.txt",
+    "static/media/background1.37f477c2.jpg": "/static/media/background1.37f477c2.jpg",
+    "static/media/fulllogo.1ff718c2.png": "/static/media/fulllogo.1ff718c2.png",
+    "static/media/gmail12.4d6df1a7.png": "/static/media/gmail12.4d6df1a7.png",
+    "static/media/img1.c91e0f2b.jpg": "/static/media/img1.c91e0f2b.jpg",
+    "static/media/img2.33f10edd.jpg": "/static/media/img2.33f10edd.jpg",
+    "static/media/img3.919d1197.jpg": "/static/media/img3.919d1197.jpg",
+    "static/media/mobileimage.e01168c6.png": "/static/media/mobileimage.e01168c6.png",
+    "static/media/phone-screen.0e4f55f9.png": "/static/media/phone-screen.0e4f55f9.png",
+    "static/media/phone12.7a525596.jpg": "/static/media/phone12.7a525596.jpg",
+    "static/media/planeImage.9a7fb919.jpg": "/static/media/planeImage.9a7fb919.jpg",
+    "static/media/playstore.93e8d43d.png": "/static/media/playstore.93e8d43d.png",
+    "static/media/signin.24ed12a2.jpg": "/static/media/signin.24ed12a2.jpg",
+    "static/media/work.128198d4.jpg": "/static/media/work.128198d4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4650f22.js",
+    "static/css/2.0004166f.chunk.css",
+    "static/js/2.6560d0d2.chunk.js",
+    "static/css/main.cbd1aecf.chunk.css",
+    "static/js/main.544c29c8.chunk.js"
+  ]
+}
